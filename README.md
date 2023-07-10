@@ -7,4 +7,6 @@ What you can do when you are done with your Bachelors or Diploma or Bootcamp?
 
 Look no forward to certs. Will they help out? 
 
-# 100%
+## 100%
+
+### Comptia A+ will definitely help
