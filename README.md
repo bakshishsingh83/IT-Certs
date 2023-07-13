@@ -10,3 +10,6 @@ Look no forward to certs. Will they help out?
 ## 100%
 
 ### Comptia A+ will definitely help
+
+This repo contains two folders - Comptia A+ Core1 and Core2
+Make sure to visit both of them. Both contains enough material to study for Comptia A+ exams
